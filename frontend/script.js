@@ -1,4 +1,4 @@
-const API = "https://fswd-projectmanagement.onrender.com";
+const API = "https://projectmanagement-backend-c1q3.onrender.com";
 
 let token = "";
 let tasks = [];
